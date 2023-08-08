@@ -13,8 +13,11 @@ Key Features:
 
 5-Performance Insights: Leverage performance insights to uncover opportunities for growth and optimization. Use data-driven insights to drive strategic decision-making and target areas for improvement.
 
-![6ce3f2a7-1b57-45ea-8507-9cf21e97448f](https://github.com/zazoya/Mobile-Accessories-Sales-Performance-Dashboard/assets/118115460/0c1e1902-70b4-4476-9f0c-d78c6f28ea4d)
+**Key insights**
+![Capture](https://github.com/zazoya/Mobile-Accessories-Sales-Performance-Dashboard/assets/118115460/379791c1-3859-4d3e-a55b-8b03b672d07f)
 
-![d848649d-bf6a-4289-9586-ede845978db5](https://github.com/zazoya/Mobile-Accessories-Sales-Performance-Dashboard/assets/118115460/40287e89-ce71-48db-928d-2a7cd9e330da)
+**Profit Analysis**
+![s](https://github.com/zazoya/Mobile-Accessories-Sales-Performance-Dashboard/assets/118115460/a1ed3d9a-87d1-490b-9808-c3f376d292ab)
 
-![45fde575-234e-4960-97ac-38a6ad4ff851](https://github.com/zazoya/Mobile-Accessories-Sales-Performance-Dashboard/assets/118115460/0ca1bffe-a171-4423-a4aa-4fc0d2c81693)
+**Performance Insights**
+![as](https://github.com/zazoya/Mobile-Accessories-Sales-Performance-Dashboard/assets/118115460/0a9d84ff-3397-40af-a5d5-9ccf9839e28c)
